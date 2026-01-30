@@ -13,5 +13,8 @@ The data for this project is sourced from the Kaggle dataset:
 - A searchable drop-down search box with semi-dynamic filtering was implemented to allow users to efficiently navigate the dataset and view insights. 
 - Charts and graphs were used to present data visually, enabling quick and effective interpretation.
 
+### Project Overview
+![Alt text](ScreenPrint_Dashboard.png)
+
 ## About Me
 I am an aspiring data analyst who is proficient in R, SQL, and Excel. This project forms part of my portfolio and highlights the Excel skills required for data analyst roles. 
